@@ -1,0 +1,1 @@
+Для настройки интеграции воспользуйтесь [инструкцией](https://my.azerizone.net/index.php?rp=/knowledgebase/71/Planfix-il%C9%99-VirtualATS-in-inteqrasiya-t%C9%99limat%C4%B1.html&fbclid=IwAR3voVmydBVfCB_S_0sxjh0OP4w_LBZKbCxP4NQzmor9C5A9uKNs_Ib1GXE) виртуальной АТС Azerizone.

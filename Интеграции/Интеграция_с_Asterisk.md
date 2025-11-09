@@ -1,0 +1,1 @@
+Интеграция ПланФикса и виртуальной АТС Asterisk может быть настроена самостоятельно, при помощи [API для телефонии](Интеграции/API_для_телефонии.md) ([пример](https://voxlink.ru/kb/asterisk-configuration/integracija-asterisk-c-planfix-s-ispolzovaniem-metodov-api/)).

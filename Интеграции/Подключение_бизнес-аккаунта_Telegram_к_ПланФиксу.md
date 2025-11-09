@@ -1,4 +1,4 @@
-Бизнес-аккаунт [Telegram](Интеграции/Telegram.md) подключается в ПланФиксе с помощью Planfix Business Bot. 
+Бизнес-аккаунт [Telegram](Telegram.md) подключается в ПланФиксе с помощью Planfix Business Bot. 
 
 
 ## Возможности

@@ -4,14 +4,14 @@
 ## Доступные сервисы, обеспечивающие интеграцию
 
 
-  * [Twilio](Интеграции/Twilio.md)
+  * [Twilio](Twilio.md)
 
-  * [ I2crm](Интеграции/Интеграция_ПланФикса_и_WhatsApp_через_i2crm.md)
+  * [ I2crm](Интеграция_ПланФикса_и_WhatsApp_через_i2crm.md)
 
-  * [SendAPI](Интеграции/SendAPI.md)
+  * [SendAPI](SendAPI.md)
 
-  * [Wazzup](Интеграции/Wazzup.md)
+  * [Wazzup](Wazzup.md)
 
-  * [1msg](Интеграции/1msg.md)
+  * [1msg](1msg.md)
 
-  * [360dialog](Интеграции/360dialog.md)
+  * [360dialog](360dialog.md)

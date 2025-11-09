@@ -1,16 +1,16 @@
 Функции управления своим личным профилем, управление профилем сотрудников. 
 
 
-  1. [user.add / Создать нового сотрудника](Интеграции/ПланФикс_API_user.add.md)
+  1. [user.add / Создать нового сотрудника](../Интеграции/ПланФикс_API_user.add.md)
 
-  2. [user.update / Обновить данные пользователя](Интеграции/ПланФикс_API_user.update.md)
+  2. [user.update / Обновить данные пользователя](../Интеграции/ПланФикс_API_user.update.md)
 
-  3. [user.get / Получить информацию о пользователе](Интеграции/ПланФикс_API_user.get.md)
+  3. [user.get / Получить информацию о пользователе](../Интеграции/ПланФикс_API_user.get.md)
 
-  4. [user.getList / Список пользователей](Интеграции/ПланФикс_API_user.getList.md)
+  4. [user.getList / Список пользователей](../Интеграции/ПланФикс_API_user.getList.md)
 
-  5. [user.updateGroupMembership / Изменить принадлежность к группе](Интеграции/ПланФикс_API_user.updateGroupMembership.md)
+  5. [user.updateGroupMembership / Изменить принадлежность к группе](../Интеграции/ПланФикс_API_user.updateGroupMembership.md)
 
-  6. [user.changeStatus / Изменить/установить статус пользователя](Интеграции/ПланФикс_API_user.changeStatus.md)
+  6. [user.changeStatus / Изменить/установить статус пользователя](../Интеграции/ПланФикс_API_user.changeStatus.md)
 
-  7. [user.actionsAdded / Получить количество добавленных пользователем действий за период](Интеграции/ПланФикс_API_user.actionsAdded.md)
+  7. [user.actionsAdded / Получить количество добавленных пользователем действий за период](../Интеграции/ПланФикс_API_user.actionsAdded.md)

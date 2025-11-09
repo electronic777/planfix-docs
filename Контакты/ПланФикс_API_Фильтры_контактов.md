@@ -273,7 +273,7 @@ datetype принимает следующие значения:
   * notequal
 
 
-| int - идентификатор группы, можно получить методом [ contact.getGroupList](Интеграции/ПланФикс_API_contact.getGroupList.md)  
+| int - идентификатор группы, можно получить методом [ contact.getGroupList](../Интеграции/ПланФикс_API_contact.getGroupList.md)  
 
 4016 | Шаблон контакта  | 
 
@@ -283,4 +283,4 @@ datetype принимает следующие значения:
   * notequal
 
 
-| int - номер шаблона, general в ответе метода [ contact.getList](Интеграции/ПланФикс_API_contact.getList.md) с target = template
+| int - номер шаблона, general в ответе метода [ contact.getList](../Интеграции/ПланФикс_API_contact.getList.md) с target = template

@@ -78,7 +78,7 @@ signature | string(32) | подпись |
 
 id | int | идентификатор контакта |   
 
-status | enum | результат выполнения операции | список допустимых значений смотри в разделе [результат выполнения contact.managePlanfixAccess](Интеграции/ПланФикс_API_Результат_выполнения_contact.managePlanfixAccess.md)  
+status | enum | результат выполнения операции | список допустимых значений смотри в разделе [результат выполнения contact.managePlanfixAccess](ПланФикс_API_Результат_выполнения_contact.managePlanfixAccess.md)  
 
   
 

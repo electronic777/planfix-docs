@@ -339,7 +339,7 @@ datetype принимает следующие значения:
   * notequal
 
 
-| int - идентификатор контрагента ( id в ответах [contact.get](Интеграции/ПланФикс_API_contact.get.md) / [contact.getList](Интеграции/ПланФикс_API_contact.getList.md) )   
+| int - идентификатор контрагента ( id в ответах [contact.get](../Интеграции/ПланФикс_API_contact.get.md) / [contact.getList](../Интеграции/ПланФикс_API_contact.getList.md) )   
 
 24 | Процесс  | 
 
@@ -349,4 +349,4 @@ datetype принимает следующие значения:
   * notequal
 
 
-| int - идентификатор процесса ( id в ответах [taskStatus.getSetList](Интеграции/ПланФикс_API_taskStatus.getSetList.md) )
+| int - идентификатор процесса ( id в ответах [taskStatus.getSetList](../Интеграции/ПланФикс_API_taskStatus.getSetList.md) )
